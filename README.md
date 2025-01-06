@@ -13,7 +13,7 @@
 - [Active Directory: Deploying Active Directory](https://github.com/SemEyob/deploy-ad)
 - [Active Directory: Resetting Passwords](https://github.com/SemEyob/password-reset)
  
-  - 
+  
 <h2>🤳Connect with me! </h2>
 
 
