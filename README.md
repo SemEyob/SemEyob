@@ -9,9 +9,9 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/SemEyob/ticket-lifecycle)
 
 - <b>Microsoft Active Directory </b>
-- [Active Directory: Preparing Infrastucture](https://github.com/SemEyob/ticket-lifecycle)
-- [Active Directory: Deploying Active Directory](https://github.com/SemEyob/ticket-lifecycle)
-- [Active Directory: Enabling and Unlocking Accounts and Restting Passwords](https://github.com/SemEyob/ticket-lifecycle)
+- [Active Directory: Preparing Infrastucture](https://github.com/SemEyob/prep-infrastructure)
+- [Active Directory: Deploying Active Directory](https://github.com/SemEyob/deploy-ad)
+- [Active Directory: Resetting Passwords](https://github.com/SemEyob/password-reset)
  
   - 
 <h2>🤳Connect with me! </h2>
