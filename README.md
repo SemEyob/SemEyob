@@ -8,7 +8,12 @@
   - [osTicket: Post-Installation Configuration](https://github.com/SemEyob/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/SemEyob/ticket-lifecycle)
 
-
+- <b>Microsoft Active Directory </b>
+- [Active Directory: Preparing Infrastucture](https://github.com/SemEyob/ticket-lifecycle)
+- [Active Directory: Deploying Active Directory](https://github.com/SemEyob/ticket-lifecycle)
+- [Active Directory: Enabling and Unlocking Accounts and Restting Passwords](https://github.com/SemEyob/ticket-lifecycle)
+ 
+  - 
 <h2>🤳Connect with me! </h2>
 
 
